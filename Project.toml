@@ -1,0 +1,6 @@
+name = "HpdFunmQuadPreconditioning"
+uuid = "11f42b5e-34ff-4e28-bab2-1c39f7ec2981"
+version = "0.1"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
