@@ -1,4 +1,5 @@
 docs/*.pdf
+!docs/imprementation_details.pdf
 # Created by https://www.toptal.com/developers/gitignore/api/julia,jupyternotebooks,visualstudiocode,windows,macos,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=julia,jupyternotebooks,visualstudiocode,windows,macos,linux
 
